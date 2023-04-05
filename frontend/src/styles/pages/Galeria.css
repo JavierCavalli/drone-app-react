@@ -1,0 +1,19 @@
+.drone-galery-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-left: 15px;
+}
+
+.galery-img {
+  width: 45%;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  margin: 20px;
+}
+
+.galeria-container-main {
+  max-width: 960px;
+  margin: 0 auto 40px;
+}

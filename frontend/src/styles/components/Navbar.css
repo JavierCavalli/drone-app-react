@@ -1,0 +1,22 @@
+.nav-ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin-right: 80px;
+}
+
+.nav-li {
+  color: #000000;
+  text-decoration: none;
+  padding: 10px 20px 10px 20px;
+  margin: 0px 10px 0px 40px;
+  display: block;
+  text-align: center;
+}
+
+.nav-li:hover {
+  color: #fff;
+  background-color: #000000;
+  transition: 0.3s;
+  border-radius: 4px;
+}

@@ -1,0 +1,11 @@
+.drone-galery-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-left: 15px;
+}
+
+.news-main-container {
+  max-width: 960px;
+  margin: 0 auto 40px;
+}

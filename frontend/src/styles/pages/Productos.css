@@ -1,0 +1,42 @@
+.drone-control {
+  width: 100%;
+}
+
+.productos-p {
+  text-align: center;
+}
+
+.drone-card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.drone {
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+
+.drone-1 {
+  width: 200px;
+  height: 200px;
+}
+
+.drone-p {
+  text-align: center;
+}
+
+.drone-button {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.button-container-product {
+  display: block;
+  text-align: center;
+}
+
+.prdouct-main-container {
+  max-width: 960px;
+  margin: 0 auto 130px;
+}

@@ -1,0 +1,33 @@
+.nosotros-card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.nosotros-card {
+  height: 350px;
+  width: 250px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+}
+
+.nosotros-card-icon {
+  padding-top: 30px;
+}
+
+.nosotros-p-titulo {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.nosotros-p-texto {
+  margin: 10px;
+}
+
+.services-container-main {
+  max-width: 960px;
+  margin: 0 auto 40px;
+}

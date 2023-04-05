@@ -1,0 +1,15 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 100px;
+}
+
+.header-title {
+  padding-top: 10px;
+  margin-left: 10px;
+  font-size: 35px;
+  font-weight: 900;
+}
