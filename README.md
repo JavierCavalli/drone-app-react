@@ -13,7 +13,4 @@ seria otro para los drones en la pagina de productos y por ultimo agregaria un c
 5. CSS
 6. Axios
 7. Cors
-8. WAMP Server
 
-## Para Correr  
-cd backend y npm start en puerto 3000 y cd frontend en puerto 3001, para correr el back se necesita el WAMP Server ya que la base de datos no esta subida a ningun lado.
