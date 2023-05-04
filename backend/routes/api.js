@@ -44,6 +44,13 @@ router.post("/contacto", async (req, res) => {
       pass: process.env.SMPT_PASS,
     },
   });
+
+  await transport.sendMail(mail);
+
+  res.status(201).json({
+    error: false,
+    message: "Mensaje enviado",
+  });
 });
 
 module.exports = router;
