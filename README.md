@@ -1,14 +1,5 @@
 ## drone-app-react-utn
 
-Proyecto final de Diplomatura UTN, la idea era crear un proyecto fullstack donde haya un admin con un crud y un login hechos con MySQL, una API para ser usada en el front y se usaran varios conceptos de react/js (state, effect, props, events, etc) decidi hacer una pagina de drones, el crud de momento lo hice solo para la seccion de novedades, lo proximo seria expandir el admin para poder agregar los drones en la pagina de productos y por ultimo agregara un carrito de compras.
+Drone marketplace made for an Argentinian company, using React and CSS for the frontend and Express, NodeJS, Handlebars, Axios and MySQL(workbench v8) for the backend. the website included several routes to different pages (products, news, repair services, photo gallery, contact), and an admin panel (crud) where the owners could manage the marketplace products, add news and change the pictures used on the website
 
-## Hecho con
-
-1. React
-2. Mysql
-3. Express/NodeJS
-4. Handlebars
-5. CSS
-6. Axios
-7. Cors
 
